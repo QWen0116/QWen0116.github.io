@@ -24,7 +24,7 @@ Publications
 ======
 Linyun Gao, **Qiang Wen**, and Fumio Machida, "Safety-Aware Weighted Voting for N-version Traffic Sign Recognition System," In Proc. of the 2nd IEEE International Workshop on Reliable and Secure AI for Software Engineering, 2024.
 
-**Qiang Wen**, Júlio Mendonça, Fumio Machida, and Marcus Völp, "Enhancing Autonomous Vehicle Safety through N-version Machine Learning Systems," In Proc. of AISafety@IJCAI, 2024. [Download Paper](https://orbilu.uni.lu/bitstream/10993/61633/1/AISafety_N_version_ML.pdf)
+**Qiang Wen**, Júlio Mendonça, Fumio Machida, and Marcus Völp, "Enhancing Autonomous Vehicle Safety through N-version Machine Learning Systems," In Proc. of AISafety@IJCAI, 2024. [Download Paper](https://www.sd.cs.tsukuba.ac.jp/aisafety2024-wen.pdf)
 
 **Qiang Wen** and Fumio Machida, "Characterizing Reliability of Three-version Traffic Sign Classifier System through Diversity Metrics," In Proc. of the 34th International Symposium on Software Reliability Engineering (ISSRE), pp. 333-343, 2023. [Download Paper](https://www.sd.cs.tsukuba.ac.jp/issre2023-wen.pdf)
 
