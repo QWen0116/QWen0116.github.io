@@ -22,7 +22,7 @@ Research Interests
 
 Publications
 ======
-Linyun Gao, **Qiang Wen**, and Fumio Machida, "Safety-Aware Weighted Voting for N-version Traffic Sign Recognition System," In Proc. of the 2nd IEEE International Workshop on Reliable and Secure AI for Software Engineering, 2024.
+Linyun Gao, **Qiang Wen**, and Fumio Machida, "Safety-Aware Weighted Voting for N-version Traffic Sign Recognition System," In Proc. of the 2nd IEEE International Workshop on Reliable and Secure AI for Software Engineering, 2024. [Download Paper](https://www.sd.cs.tsukuba.ac.jp/resaise2024-gao.pdf)
 
 **Qiang Wen**, Júlio Mendonça, Fumio Machida, and Marcus Völp, "Enhancing Autonomous Vehicle Safety through N-version Machine Learning Systems," In Proc. of AISafety@IJCAI, 2024. [Download Paper](https://www.sd.cs.tsukuba.ac.jp/aisafety2024-wen.pdf)
 
