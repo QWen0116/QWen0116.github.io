@@ -22,7 +22,7 @@ Research Interests
 
 Publications
 ======
-**Qiang Wen** and Fumio Machida, "Reliability Modeling for Three-version Machine Learning Systems through Bayesian Networks", Reliability Engineering & System Safety.
+**Qiang Wen** and Fumio Machida, "Reliability Modeling for Three-version Machine Learning Systems through Bayesian Networks", Reliability Engineering & System Safety, 2025.
 
 Linyun Gao, **Qiang Wen**, and Fumio Machida, "Safety-Aware Weighted Voting for N-version Traffic Sign Recognition System", In Proc. of the 2nd IEEE International Workshop on Reliable and Secure AI for Software Engineering, pp. 337-344, 2024. [Download Paper](https://www.sd.cs.tsukuba.ac.jp/resaise2024-gao.pdf)
 
