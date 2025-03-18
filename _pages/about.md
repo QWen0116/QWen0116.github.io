@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-I'm a second-year PhD student from the Laboratory for System Dependability at the University of Tsukuba, Japan, under the supervision of [Prof. Fumio Machida](https://www.sd.cs.tsukuba.ac.jp/en/index.html) . My research focuses on software reliability, especially reliability and dependability of machine learning systems in safety-critical domains such as autonomous vehicles and critical infrastructure systems.
+I'm a second-year PhD student from the Laboratory for System Dependability at the University of Tsukuba, Japan, under the supervision of [Prof. Fumio Machida](https://www.sd.cs.tsukuba.ac.jp/en/index.html). My research focuses on software reliability, especially reliability and dependability of machine learning systems in safety-critical domains such as autonomous vehicles and critical infrastructure systems.
 
 
 Research Interests
