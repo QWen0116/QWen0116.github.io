@@ -22,6 +22,8 @@ Research Interests
 
 Publications
 ======
+**Qiang Wen**, Júlio Mendonça, Fumio Machida, and Marcus Völp, "Multi-version Machine Learning and Rejuvenation for Resilient Perception in Safety-critical Systems", In Proc. of the 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025.
+
 **Qiang Wen** and Fumio Machida, "Reliability Modeling for Three-version Machine Learning Systems through Bayesian Networks", Reliability Engineering & System Safety, 2025. https://doi.org/10.1016/j.ress.2025.111016. [Download Paper](https://authors.elsevier.com/a/1kqYM3OQ%7Efl72w)
 
 Linyun Gao, **Qiang Wen**, and Fumio Machida, "Safety-Aware Weighted Voting for N-version Traffic Sign Recognition System", In Proc. of the 2nd IEEE International Workshop on Reliable and Secure AI for Software Engineering, pp. 337-344, 2024. [Download Paper](https://www.sd.cs.tsukuba.ac.jp/resaise2024-gao.pdf)
