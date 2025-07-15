@@ -20,11 +20,19 @@ Research Interests
 
 • Software Reliability Evaluation and Design
 
-Publications
+
+Journal Articles
 ======
-**Qiang Wen**, Júlio Mendonça, Fumio Machida, and Marcus Völp, "Multi-version Machine Learning and Rejuvenation for Resilient Perception in Safety-critical Systems", In Proc. of the 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. [pdf](https://www.sd.cs.tsukuba.ac.jp/dsn2025-wen.pdf)
 
 **Qiang Wen** and Fumio Machida, "Reliability Modeling for Three-version Machine Learning Systems through Bayesian Networks", Reliability Engineering & System Safety, 2025. https://doi.org/10.1016/j.ress.2025.111016. [pdf](https://doi.org/10.1016/j.ress.2025.111016)
+
+Gao Linyun, **Qiang Wen**, and Fumio Machida, "Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting." arXiv preprint arXiv:2507.06907, 2025. [pdf](https://arxiv.org/pdf/2507.06907)
+
+
+Conference Papers
+======
+
+**Qiang Wen**, Júlio Mendonça, Fumio Machida, and Marcus Völp, "Multi-version Machine Learning and Rejuvenation for Resilient Perception in Safety-critical Systems", In Proc. of the 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. [pdf](https://www.sd.cs.tsukuba.ac.jp/dsn2025-wen.pdf)
 
 Linyun Gao, **Qiang Wen**, and Fumio Machida, "Safety-Aware Weighted Voting for N-version Traffic Sign Recognition System", In Proc. of the 2nd IEEE International Workshop on Reliable and Secure AI for Software Engineering, pp. 337-344, 2024. [pdf](https://www.sd.cs.tsukuba.ac.jp/resaise2024-gao.pdf)
 
